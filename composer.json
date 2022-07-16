@@ -19,7 +19,8 @@
         "drupal/admin_toolbar": "^3.1",
         "drupal/core-composer-scaffold": "^9.4",
         "drupal/core-project-message": "^9.4",
-        "drupal/core-recommended": "^9.4"
+        "drupal/core-recommended": "^9.4",
+        "drupal/selection_sharer": "^1.4"
     },
     "conflict": {
         "drupal/drupal": "*"
